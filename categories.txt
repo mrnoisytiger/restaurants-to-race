@@ -1,0 +1,154 @@
+Afghan, white
+African, black
+Senegalese, black
+South African, black
+American (New), white
+American (Traditional), white
+Arabian, white
+Argentine, hispanic
+Armenian, white
+Asian Fusion, asian
+Australian, white
+Austrian, white
+Bangladeshi, white
+Barbeque, none
+Basque, none
+Belgian, white
+Brasseries, none
+Brazilian, hispanic
+Breakfast & Brunch, none
+British, white
+Buffets, none
+Bulgarian, white
+Burgers, white
+Burmese, asian
+Cafes, none
+Themed Cafes, none
+Cafeteria, none
+Cajun/Creole, api
+Cambodian, hispanic
+Caribbean, api
+Dominican, api
+Haitian, api
+Puerto Rican, hispanic
+Trinidadian, hispanic
+Catalan, hispanic
+Cheesesteaks, white
+Chicken Shop, none
+Chicken Wings, white
+Chinese, asian
+Cantonese, asian
+Dim Sum, asian
+Hainan, asian
+Shanghainese, asian
+Szechuan, asian
+Comfort Food, white
+Creperies, none
+Cuban, hispanic
+Czech, white
+Delis, none
+Diners, white
+Dinner Theater, white
+Ethiopian, black
+Fast Food, none
+Filipino, asian
+Fish & Chips, white
+Fondue, asian
+Food Court, none
+Food Stands, none
+French, white
+Mauritius, black 
+Reunion, none
+Game Meat, none
+Gastropubs, white
+Georgian, white
+German, white
+Gluten-Free, none
+Greek, white
+Guamanian, api
+Halal, white
+Hawaiian, api
+Himalayan/Nepalese, asian
+Honduran, hispanic
+Hong Kong Style Cafe, asian
+Hot Dogs, white
+Hot Pot, asian
+Hungarian, white
+Iberian, white
+Indian, asian
+Indonesian, asian
+Irish, white
+Italian, white
+Calabrian, white
+Sardinian, white
+Sicilian, white
+Tuscan, white
+Japanese, asian
+Conveyor Belt Sushi, asian
+Izakaya, asian
+Japanese Curry, asian
+Ramen, asian
+Teppanyaki, asian
+Kebab, none
+Korean, asian
+Kosher, white
+Laotian, asian
+Latin American, hispanic
+Colombian, hispanic
+Salvadoran, hispanic
+Venezuelan, hispanic
+Live/Raw Food, none
+Malaysian, asian
+Mediterranean, white
+Falafel, white
+Mexican, hispanic
+Tacos, hispanic
+Middle Eastern, white
+Egyptian, white
+Lebanese, asian
+Modern European, white
+Mongolian, asian
+Moroccan, white
+New Mexican Cuisine, hispanic
+Nicaraguan, hispanic
+Noodles, asian
+Pakistani, white
+Pan Asian, asian
+Persian/Iranian, white
+Peruvian, hispanic
+Pizza, white
+Polish, white
+Polynesian, api
+Pop-Up Restaurants, none
+Portuguese, white
+Poutineries, white
+Russian, white
+Salad, white
+Sandwiches, none
+Scandinavian, white
+Scottish, white
+Seafood, none
+Singaporean, asian
+Slovakian, white
+Soul Food, black
+Soup, none
+Southern, white
+Spanish, hispanic
+Sri Lankan, white
+Steakhouses, white
+Supper Clubs, none
+Sushi Bars, asian
+Syrian, white
+Taiwanese, asian
+Tapas Bars, hispanic
+Tapas/Small Plates, hispanic
+Tex-Mex, hispanic
+Thai, asian
+Turkish, white
+Ukrainian, white
+Uzbek, white
+Vegan, none
+Vegetarian, none
+Vietnamese, asian
+Waffles, white
+Wraps, none
