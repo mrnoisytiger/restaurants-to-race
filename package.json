@@ -2,6 +2,7 @@
     "name": "restaurant-race",
     "version": "0.1.0",
     "devDependencies": {
+        "prompt": "^1.0.0",
         "sync-request": "^6.0.0"
     }
 }
