@@ -64,54 +64,6 @@ function get_confs() {
     return result;
 }
 
-/*
-function yelp_api_request(zip_code, offset, callback){
-    sleep(300);
-    var https = require('https');
-    var options = {
-        host: 'api.yelp.com',
-        port: 443,
-        path: '/v3/graphql',
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/graphql',
-            'Authorization': 'Bearer ' + config['yelp_api_key'],
-        }
-    };
-
-    var req = https.request(options, function(res) {
-        var str = '';
-        res.setEncoding('utf8');
-        res.on('data', function (body) {
-            str += body;
-        });
-        res.on('end', function() {
-            callback(str,zip_code);
-            write_json_to_file('data_files/yelp_data.json', final_data);
-        });
-    });
-    // write data to request body
-    
-    var query = `{
-        search(term:\"restaurant\",
-        location:\"` + zip_code + `\",
-            limit: 50,
-            offset:` + offset + `,
-        ){
-            total
-            business {
-                name
-                categories {
-                    title
-                    alias
-                }
-            }
-        }
-    }`
-    req.write(query);
-    req.end();
-} */
-
 function yelp_api_request(zip_code, offset){
     var request = require('sync-request');
     var options = {
@@ -184,12 +136,3 @@ function write_json_to_file(path,data){
     var fs = require('fs');
     fs.writeFileSync(path, JSON.stringify(data));
 }
-
-function sleep(milliseconds) {
-    var start = new Date().getTime();
-    for (var i = 0; i < 1e7; i++) {
-      if ((new Date().getTime() - start) > milliseconds){
-        break;
-      }
-    }
-  }
