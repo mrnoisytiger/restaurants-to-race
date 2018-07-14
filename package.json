@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "devDependencies": {
         "prompt": "^1.0.0",
+        "prompt-sync": "^4.1.6",
         "sync-request": "^6.0.0"
     }
 }
