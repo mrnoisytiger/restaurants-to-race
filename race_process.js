@@ -11,15 +11,6 @@ for ( i=0; i < zips.length; i++ ) {
     }
 
     if ( final_data[zips[i]] == undefined ) {
-        final_data[zips[i]] = {
-            population: {
-                white: 0,
-                asian: 0,
-                black: 0,
-                api: 0,
-                hispanic: 0,
-            },
-        };
         unprocessed_zips.push(zips[i]);
     }
     
@@ -29,6 +20,15 @@ for ( i=0; i < zips.length; i++ ) {
 loop1:
 for ( var i = 0; i < unprocessed_zips.length; i++ ) {
     zip = unprocessed_zips[i];
+    final_data[zip] = {
+        population: {
+            white: 0,
+            asian: 0,
+            black: 0,
+            api: 0,
+            hispanic: 0,
+        },
+    };
     var total = 0;
     debugger;
     loop2:
@@ -38,7 +38,7 @@ for ( var i = 0; i < unprocessed_zips.length; i++ ) {
         if ( value == 'exit' ) {
             delete final_data[zip];
             write_json_to_file('data_files/pop_data.json',final_data);
-            break loop2;
+            break loop1;
         } else {
             final_data[zip].population[race] = parseInt(value);
             total = total + parseInt(final_data[zip].population[race]);
