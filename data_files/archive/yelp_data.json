@@ -1,0 +1,902 @@
+{
+    "10025": {
+      "restaurants": {
+        "white": 442,
+        "asian": 198,
+        "black": 28,
+        "api": 34,
+        "hispanic": 95,
+        "total": 797
+      }
+    },
+    "10314": {
+      "restaurants": {
+        "white": 560,
+        "asian": 174,
+        "black": 6,
+        "api": 23,
+        "hispanic": 177,
+        "total": 940
+      }
+    },
+    "10456": {
+      "restaurants": {
+        "white": 183,
+        "asian": 59,
+        "black": 12,
+        "api": 35,
+        "hispanic": 98,
+        "total": 387
+      }
+    },
+    "10467": {
+      "restaurants": {
+        "white": 461,
+        "asian": 170,
+        "black": 11,
+        "api": 101,
+        "hispanic": 221,
+        "total": 964
+      }
+    },
+    "11207": {
+      "restaurants": {
+        "white": 374,
+        "asian": 194,
+        "black": 20,
+        "api": 130,
+        "hispanic": 212,
+        "total": 930
+      }
+    },
+    "11208": {
+      "restaurants": {
+        "white": 110,
+        "asian": 63,
+        "black": 2,
+        "api": 26,
+        "hispanic": 56,
+        "total": 257
+      }
+    },
+    "11211": {
+      "restaurants": {
+        "white": 406,
+        "asian": 179,
+        "black": 4,
+        "api": 14,
+        "hispanic": 146,
+        "total": 749
+      }
+    },
+    "11219": {
+      "restaurants": {
+        "white": 211,
+        "asian": 280,
+        "black": 1,
+        "api": 9,
+        "hispanic": 116,
+        "total": 617
+      }
+    },
+    "11220": {
+      "restaurants": {
+        "white": 227,
+        "asian": 253,
+        "black": 0,
+        "api": 7,
+        "hispanic": 127,
+        "total": 614
+      }
+    },
+    "11226": {
+      "restaurants": {
+        "white": 559,
+        "asian": 211,
+        "black": 16,
+        "api": 87,
+        "hispanic": 169,
+        "total": 1042
+      }
+    },
+    "11230": {
+      "restaurants": {
+        "white": 273,
+        "asian": 118,
+        "black": 1,
+        "api": 27,
+        "hispanic": 52,
+        "total": 471
+      }
+    },
+    "11234": {
+      "restaurants": {
+        "white": 113,
+        "asian": 51,
+        "black": 2,
+        "api": 26,
+        "hispanic": 12,
+        "total": 204
+      }
+    },
+    "11236": {
+      "restaurants": {
+        "white": 85,
+        "asian": 38,
+        "black": 2,
+        "api": 49,
+        "hispanic": 6,
+        "total": 180
+      }
+    },
+    "11355": {
+      "restaurants": {
+        "white": 45,
+        "asian": 351,
+        "black": 0,
+        "api": 5,
+        "hispanic": 7,
+        "total": 408
+      }
+    },
+    "11368": {
+      "restaurants": {
+        "white": 197,
+        "asian": 219,
+        "black": 1,
+        "api": 29,
+        "hispanic": 238,
+        "total": 684
+      }
+    },
+    "11373": {
+      "restaurants": {
+        "white": 117,
+        "asian": 126,
+        "black": 1,
+        "api": 8,
+        "hispanic": 138,
+        "total": 390
+      }
+    },
+    "11377": {
+      "restaurants": {
+        "white": 372,
+        "asian": 284,
+        "black": 1,
+        "api": 12,
+        "hispanic": 264,
+        "total": 933
+      }
+    },
+    "11385": {
+      "restaurants": {
+        "white": 189,
+        "asian": 98,
+        "black": 1,
+        "api": 14,
+        "hispanic": 114,
+        "total": 416
+      }
+    },
+    "60617": {
+      "restaurants": {
+        "white": 79,
+        "asian": 13,
+        "black": 5,
+        "api": 6,
+        "hispanic": 23,
+        "total": 126
+      }
+    },
+    "60618": {
+      "restaurants": {
+        "white": 185,
+        "asian": 68,
+        "black": 0,
+        "api": 3,
+        "hispanic": 100,
+        "total": 356
+      }
+    },
+    "60623": {
+      "restaurants": {
+        "white": 30,
+        "asian": 7,
+        "black": 0,
+        "api": 0,
+        "hispanic": 59,
+        "total": 96
+      }
+    },
+    "60629": {
+      "restaurants": {
+        "white": 51,
+        "asian": 8,
+        "black": 0,
+        "api": 1,
+        "hispanic": 79,
+        "total": 139
+      }
+    },
+    "60632": {
+      "restaurants": {
+        "white": 187,
+        "asian": 32,
+        "black": 3,
+        "api": 2,
+        "hispanic": 219,
+        "total": 443
+      }
+    },
+    "60639": {
+      "restaurants": {
+        "white": 321,
+        "asian": 88,
+        "black": 6,
+        "api": 12,
+        "hispanic": 215,
+        "total": 642
+      }
+    },
+    "60647": {
+      "restaurants": {
+        "white": 536,
+        "asian": 165,
+        "black": 6,
+        "api": 20,
+        "hispanic": 241,
+        "total": 968
+      }
+    },
+    "60804": {
+      "restaurants": {
+        "white": 198,
+        "asian": 33,
+        "black": 5,
+        "api": 5,
+        "hispanic": 127,
+        "total": 368
+      }
+    },
+    "75052": {
+      "restaurants": {
+        "white": 472,
+        "asian": 197,
+        "black": 16,
+        "api": 45,
+        "hispanic": 236,
+        "total": 966
+      }
+    },
+    "77084": {
+      "restaurants": {
+        "white": 428,
+        "asian": 179,
+        "black": 2,
+        "api": 44,
+        "hispanic": 213,
+        "total": 866
+      }
+    },
+    "77449": {
+      "restaurants": {
+        "white": 402,
+        "asian": 162,
+        "black": 7,
+        "api": 47,
+        "hispanic": 201,
+        "total": 819
+      }
+    },
+    "78521": {
+      "restaurants": {
+        "white": 7,
+        "asian": 1,
+        "black": 0,
+        "api": 0,
+        "hispanic": 12,
+        "total": 20
+      }
+    },
+    "79936": {
+      "restaurants": {
+        "white": 284,
+        "asian": 73,
+        "black": 2,
+        "api": 6,
+        "hispanic": 207,
+        "total": 572
+      }
+    },
+    "90011": {
+      "restaurants": {
+        "white": 377,
+        "asian": 313,
+        "black": 5,
+        "api": 19,
+        "hispanic": 273,
+        "total": 987
+      }
+    },
+    "90024": {
+      "restaurants": {
+        "white": 588,
+        "asian": 272,
+        "black": 2,
+        "api": 15,
+        "hispanic": 130,
+        "total": 1007
+      }
+    },
+    "90201": {
+      "restaurants": {
+        "white": 314,
+        "asian": 193,
+        "black": 10,
+        "api": 24,
+        "hispanic": 462,
+        "total": 1003
+      }
+    },
+    "90250": {
+      "restaurants": {
+        "white": 456,
+        "asian": 235,
+        "black": 25,
+        "api": 57,
+        "hispanic": 248,
+        "total": 1021
+      }
+    },
+    "90280": {
+      "restaurants": {
+        "white": 285,
+        "asian": 157,
+        "black": 18,
+        "api": 23,
+        "hispanic": 510,
+        "total": 993
+      }
+    },
+    "90650": {
+      "restaurants": {
+        "white": 332,
+        "asian": 357,
+        "black": 6,
+        "api": 31,
+        "hispanic": 280,
+        "total": 1006
+      }
+    },
+    "90805": {
+      "restaurants": {
+        "white": 353,
+        "asian": 255,
+        "black": 17,
+        "api": 40,
+        "hispanic": 344,
+        "total": 1009
+      }
+    },
+    "91331": {
+      "restaurants": {
+        "white": 175,
+        "asian": 92,
+        "black": 4,
+        "api": 13,
+        "hispanic": 235,
+        "total": 519
+      }
+    },
+    "91342": {
+      "restaurants": {
+        "white": 342,
+        "asian": 170,
+        "black": 6,
+        "api": 16,
+        "hispanic": 351,
+        "total": 885
+      }
+    },
+    "92335": {
+      "restaurants": {
+        "white": 279,
+        "asian": 101,
+        "black": 3,
+        "api": 13,
+        "hispanic": 222,
+        "total": 618
+      }
+    },
+    "92336": {
+      "restaurants": {
+        "white": 303,
+        "asian": 118,
+        "black": 2,
+        "api": 13,
+        "hispanic": 201,
+        "total": 637
+      }
+    },
+    "92503": {
+      "restaurants": {
+        "white": 340,
+        "asian": 135,
+        "black": 1,
+        "api": 15,
+        "hispanic": 227,
+        "total": 718
+      }
+    },
+    "92683": {
+      "restaurants": {
+        "white": 346,
+        "asian": 505,
+        "black": 3,
+        "api": 40,
+        "hispanic": 117,
+        "total": 1011
+      }
+    },
+    "92704": {
+      "restaurants": {
+        "white": 360,
+        "asian": 351,
+        "black": 2,
+        "api": 37,
+        "hispanic": 255,
+        "total": 1005
+      }
+    },
+    "92804": {
+      "restaurants": {
+        "white": 303,
+        "asian": 244,
+        "black": 4,
+        "api": 20,
+        "hispanic": 179,
+        "total": 750
+      }
+    },
+    "94565": {
+      "restaurants": {
+        "white": 451,
+        "asian": 227,
+        "black": 7,
+        "api": 15,
+        "hispanic": 203,
+        "total": 903
+      }
+    },
+    "00926": {
+      "restaurants": {
+        "white": 311,
+        "asian": 82,
+        "black": 1,
+        "api": 100,
+        "hispanic": 463,
+        "total": 957
+      }
+    },
+    "08701": {
+      "restaurants": {
+        "white": 232,
+        "asian": 63,
+        "black": 0,
+        "api": 1,
+        "hispanic": 33,
+        "total": 329
+      }
+    },
+    "00725": {
+      "restaurants": {
+        "white": 260,
+        "asian": 80,
+        "black": 1,
+        "api": 59,
+        "hispanic": 320,
+        "total": 720
+      }
+    },
+    "11554": {
+      "restaurants": {
+        "white": 185,
+        "asian": 74,
+        "black": 1,
+        "api": 11,
+        "hispanic": 39,
+        "total": 310
+      }
+    },
+    "15146": {
+      "restaurants": {
+        "white": 227,
+        "asian": 37,
+        "black": 5,
+        "api": 0,
+        "hispanic": 12,
+        "total": 281
+      }
+    },
+    "15701": {
+      "restaurants": {
+        "white": 57,
+        "asian": 8,
+        "black": 0,
+        "api": 0,
+        "hispanic": 4,
+        "total": 69
+      }
+    },
+    "20874": {
+      "restaurants": {
+        "white": 479,
+        "asian": 261,
+        "black": 14,
+        "api": 18,
+        "hispanic": 149,
+        "total": 921
+      }
+    },
+    "21144": {
+      "restaurants": {
+        "white": 593,
+        "asian": 192,
+        "black": 13,
+        "api": 16,
+        "hispanic": 113,
+        "total": 927
+      }
+    },
+    "23111": {
+      "restaurants": {
+        "white": 104,
+        "asian": 27,
+        "black": 1,
+        "api": 2,
+        "hispanic": 18,
+        "total": 152
+      }
+    },
+    "27103": {
+      "restaurants": {
+        "white": 279,
+        "asian": 69,
+        "black": 3,
+        "api": 5,
+        "hispanic": 55,
+        "total": 411
+      }
+    },
+    "28601": {
+      "restaurants": {
+        "white": 137,
+        "asian": 39,
+        "black": 3,
+        "api": 0,
+        "hispanic": 25,
+        "total": 204
+      }
+    },
+    "29456": {
+      "restaurants": {
+        "white": 240,
+        "asian": 65,
+        "black": 6,
+        "api": 4,
+        "hispanic": 48,
+        "total": 363
+      }
+    },
+    "29483": {
+      "restaurants": {
+        "white": 95,
+        "asian": 18,
+        "black": 1,
+        "api": 1,
+        "hispanic": 13,
+        "total": 128
+      }
+    },
+    "30043": {
+      "restaurants": {
+        "white": 420,
+        "asian": 319,
+        "black": 15,
+        "api": 50,
+        "hispanic": 173,
+        "total": 977
+      }
+    },
+    "30705": {
+      "restaurants": {
+        "white": 19,
+        "asian": 1,
+        "black": 0,
+        "api": 0,
+        "hispanic": 7,
+        "total": 27
+      }
+    },
+    "30741": {
+      "restaurants": {
+        "white": 391,
+        "asian": 66,
+        "black": 5,
+        "api": 4,
+        "hispanic": 86,
+        "total": 552
+      }
+    },
+    "31021": {
+      "restaurants": {
+        "white": 40,
+        "asian": 9,
+        "black": 1,
+        "api": 2,
+        "hispanic": 7,
+        "total": 59
+      }
+    },
+    "32082": {
+      "restaurants": {
+        "white": 37,
+        "asian": 8,
+        "black": 0,
+        "api": 2,
+        "hispanic": 5,
+        "total": 52
+      }
+    },
+    "33056": {
+      "restaurants": {
+        "white": 131,
+        "asian": 34,
+        "black": 11,
+        "api": 42,
+        "hispanic": 59,
+        "total": 277
+      }
+    },
+    "37312": {
+      "restaurants": {
+        "white": 94,
+        "asian": 12,
+        "black": 0,
+        "api": 0,
+        "hispanic": 21,
+        "total": 127
+      }
+    },
+    "37343": {
+      "restaurants": {
+        "white": 128,
+        "asian": 18,
+        "black": 0,
+        "api": 2,
+        "hispanic": 35,
+        "total": 183
+      }
+    },
+    "42101": {
+      "restaurants": {
+        "white": 134,
+        "asian": 29,
+        "black": 0,
+        "api": 0,
+        "hispanic": 29,
+        "total": 192
+      }
+    },
+    "43612": {
+      "restaurants": {
+        "white": 297,
+        "asian": 55,
+        "black": 4,
+        "api": 5,
+        "hispanic": 39,
+        "total": 400
+      }
+    },
+    "44240": {
+      "restaurants": {
+        "white": 124,
+        "asian": 24,
+        "black": 0,
+        "api": 0,
+        "hispanic": 20,
+        "total": 168
+      }
+    },
+    "46060": {
+      "restaurants": {
+        "white": 102,
+        "asian": 18,
+        "black": 0,
+        "api": 1,
+        "hispanic": 24,
+        "total": 145
+      }
+    },
+    "46077": {
+      "restaurants": {
+        "white": 550,
+        "asian": 124,
+        "black": 5,
+        "api": 13,
+        "hispanic": 119,
+        "total": 811
+      }
+    },
+    "46614": {
+      "restaurants": {
+        "white": 312,
+        "asian": 45,
+        "black": 1,
+        "api": 1,
+        "hispanic": 62,
+        "total": 421
+      }
+    },
+    "47802": {
+      "restaurants": {
+        "white": 56,
+        "asian": 11,
+        "black": 0,
+        "api": 1,
+        "hispanic": 9,
+        "total": 77
+      }
+    },
+    "48423": {
+      "restaurants": {
+        "white": 87,
+        "asian": 9,
+        "black": 0,
+        "api": 0,
+        "hispanic": 16,
+        "total": 112
+      }
+    },
+    "49221": {
+      "restaurants": {
+        "white": 45,
+        "asian": 6,
+        "black": 0,
+        "api": 0,
+        "hispanic": 11,
+        "total": 62
+      }
+    },
+    "53204": {
+      "restaurants": {
+        "white": 301,
+        "asian": 64,
+        "black": 6,
+        "api": 3,
+        "hispanic": 109,
+        "total": 483
+      }
+    },
+    "60060": {
+      "restaurants": {
+        "white": 167,
+        "asian": 56,
+        "black": 0,
+        "api": 0,
+        "hispanic": 34,
+        "total": 257
+      }
+    },
+    "84010": {
+      "restaurants": {
+        "white": 448,
+        "asian": 144,
+        "black": 5,
+        "api": 11,
+        "hispanic": 172,
+        "total": 780
+      }
+    },
+    "84404": {
+      "restaurants": {
+        "white": 354,
+        "asian": 116,
+        "black": 0,
+        "api": 6,
+        "hispanic": 110,
+        "total": 586
+      }
+    },
+    "91010": {
+      "restaurants": {
+        "white": 121,
+        "asian": 63,
+        "black": 0,
+        "api": 7,
+        "hispanic": 60,
+        "total": 251
+      }
+    },
+    "92831": {
+      "restaurants": {
+        "white": 287,
+        "asian": 126,
+        "black": 3,
+        "api": 14,
+        "hispanic": 146,
+        "total": 576
+      }
+    },
+    "07109": {
+      "restaurants": {
+        "white": 278,
+        "asian": 99,
+        "black": 6,
+        "api": 18,
+        "hispanic": 83,
+        "total": 484
+      }
+    },
+    "08520": {
+      "restaurants": {
+        "white": 94,
+        "asian": 44,
+        "black": 0,
+        "api": 1,
+        "hispanic": 20,
+        "total": 159
+      }
+    },
+    "07652": {
+      "restaurants": {
+        "white": 573,
+        "asian": 203,
+        "black": 3,
+        "api": 32,
+        "hispanic": 137,
+        "total": 948
+      }
+    },
+    "08043": {
+      "restaurants": {
+        "white": 382,
+        "asian": 147,
+        "black": 8,
+        "api": 5,
+        "hispanic": 41,
+        "total": 583
+      }
+    },
+    "06066": {
+      "restaurants": {
+        "white": 128,
+        "asian": 44,
+        "black": 2,
+        "api": 3,
+        "hispanic": 16,
+        "total": 193
+      }
+    },
+    "01752": {
+      "restaurants": {
+        "white": 457,
+        "asian": 152,
+        "black": 1,
+        "api": 3,
+        "hispanic": 64,
+        "total": 677
+      }
+    },
+    "07054": {
+      "restaurants": {
+        "white": 613,
+        "asian": 198,
+        "black": 8,
+        "api": 15,
+        "hispanic": 109,
+        "total": 943
+      }
+    }
+}

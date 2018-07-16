@@ -1,0 +1,902 @@
+{
+    "10025": {
+      "population": {
+        "white": 52676,
+        "asian": 8697,
+        "black": 11505,
+        "api": 22,
+        "hispanic": 21508,
+        "total": 94408
+      }
+    },
+    "10314": {
+      "population": {
+        "white": 57946,
+        "asian": 12423,
+        "black": 4079,
+        "api": 156,
+        "hispanic": 12650,
+        "total": 87254
+      }
+    },
+    "10456": {
+      "population": {
+        "white": 1375,
+        "asian": 1220,
+        "black": 37705,
+        "api": 0,
+        "hispanic": 54743,
+        "total": 95043
+      }
+    },
+    "10467": {
+      "population": {
+        "white": 8488,
+        "asian": 6483,
+        "black": 36795,
+        "api": 7,
+        "hispanic": 53511,
+        "total": 105284
+      }
+    },
+    "11207": {
+      "population": {
+        "white": 2874,
+        "asian": 1216,
+        "black": 61747,
+        "api": 113,
+        "hispanic": 30649,
+        "total": 96599
+      }
+    },
+    "11208": {
+      "population": {
+        "white": 2402,
+        "asian": 5909,
+        "black": 50977,
+        "api": 102,
+        "hispanic": 39247,
+        "total": 98637
+      }
+    },
+    "11211": {
+      "population": {
+        "white": 64001,
+        "asian": 5310,
+        "black": 6384,
+        "api": 28,
+        "hispanic": 24803,
+        "total": 100526
+      }
+    },
+    "11219": {
+      "population": {
+        "white": 58656,
+        "asian": 24033,
+        "black": 1164,
+        "api": 0,
+        "hispanic": 12102,
+        "total": 95955
+      }
+    },
+    "11220": {
+      "population": {
+        "white": 14037,
+        "asian": 41620,
+        "black": 2499,
+        "api": 14,
+        "hispanic": 42298,
+        "total": 100468
+      }
+    },
+    "11226": {
+      "population": {
+        "white": 9708,
+        "asian": 3266,
+        "black": 71548,
+        "api": 11,
+        "hispanic": 17589,
+        "total": 102122
+      }
+    },
+    "11230": {
+      "population": {
+        "white": 59247,
+        "asian": 12746,
+        "black": 6709,
+        "api": 0,
+        "hispanic": 8510,
+        "total": 87212
+      }
+    },
+    "11234": {
+      "population": {
+        "white": 36913,
+        "asian": 5281,
+        "black": 44689,
+        "api": 11,
+        "hispanic": 9655,
+        "total": 96549
+      }
+    },
+    "11236": {
+      "population": {
+        "white": 4167,
+        "asian": 2722,
+        "black": 87209,
+        "api": 0,
+        "hispanic": 6014,
+        "total": 100112
+      }
+    },
+    "11355": {
+      "population": {
+        "white": 6207,
+        "asian": 60445,
+        "black": 2817,
+        "api": 64,
+        "hispanic": 10553,
+        "total": 80086
+      }
+    },
+    "11368": {
+      "population": {
+        "white": 4526,
+        "asian": 12840,
+        "black": 13664,
+        "api": 0,
+        "hispanic": 83843,
+        "total": 114873
+      }
+    },
+    "11373": {
+      "population": {
+        "white": 6408,
+        "asian": 48112,
+        "black": 2277,
+        "api": 15,
+        "hispanic": 38262,
+        "total": 95074
+      }
+    },
+    "11377": {
+      "population": {
+        "white": 18340,
+        "asian": 33736,
+        "black": 2262,
+        "api": 0,
+        "hispanic": 35435,
+        "total": 89773
+      }
+    },
+    "11385": {
+      "population": {
+        "white": 48843,
+        "asian": 6947,
+        "black": 2329,
+        "api": 46,
+        "hispanic": 44865,
+        "total": 103030
+      }
+    },
+    "60617": {
+      "population": {
+        "white": 5812,
+        "asian": 90,
+        "black": 45280,
+        "api": 18,
+        "hispanic": 29047,
+        "total": 80247
+      }
+    },
+    "60618": {
+      "population": {
+        "white": 44262,
+        "asian": 5596,
+        "black": 2410,
+        "api": 100,
+        "hispanic": 41112,
+        "total": 93480
+      }
+    },
+    "60623": {
+      "population": {
+        "white": 1876,
+        "asian": 182,
+        "black": 28227,
+        "api": 0,
+        "hispanic": 57641,
+        "total": 87926
+      }
+    },
+    "60629": {
+      "population": {
+        "white": 9683,
+        "asian": 611,
+        "black": 23243,
+        "api": 8,
+        "hispanic": 80921,
+        "total": 114466
+      }
+    },
+    "60632": {
+      "population": {
+        "white": 8274,
+        "asian": 4327,
+        "black": 1528,
+        "api": 16,
+        "hispanic": 77750,
+        "total": 91895
+      }
+    },
+    "60639": {
+      "population": {
+        "white": 6416,
+        "asian": 921,
+        "black": 11686,
+        "api": 31,
+        "hispanic": 70990,
+        "total": 90044
+      }
+    },
+    "60647": {
+      "population": {
+        "white": 35567,
+        "asian": 2490,
+        "black": 5808,
+        "api": 40,
+        "hispanic": 44042,
+        "total": 87947
+      }
+    },
+    "60804": {
+      "population": {
+        "white": 5793,
+        "asian": 496,
+        "black": 3352,
+        "api": 5,
+        "hispanic": 74555,
+        "total": 84201
+      }
+    },
+    "75052": {
+      "population": {
+        "white": 21871,
+        "asian": 9647,
+        "black": 25114,
+        "api": 24,
+        "hispanic": 34389,
+        "total": 91045
+      }
+    },
+    "77084": {
+      "population": {
+        "white": 30455,
+        "asian": 9840,
+        "black": 17625,
+        "api": 13,
+        "hispanic": 44723,
+        "total": 102656
+      }
+    },
+    "77449": {
+      "population": {
+        "white": 30700,
+        "asian": 5329,
+        "black": 22167,
+        "api": 0,
+        "hispanic": 51957,
+        "total": 110153
+      }
+    },
+    "78521": {
+      "population": {
+        "white": 3514,
+        "asian": 399,
+        "black": 264,
+        "api": 0,
+        "hispanic": 89020,
+        "total": 93197
+      }
+    },
+    "79936": {
+      "population": {
+        "white": 11679,
+        "asian": 1137,
+        "black": 2646,
+        "api": 112,
+        "hispanic": 97145,
+        "total": 112719
+      }
+    },
+    "90011": {
+      "population": {
+        "white": 623,
+        "asian": 571,
+        "black": 8979,
+        "api": 144,
+        "hispanic": 94383,
+        "total": 104700
+      }
+    },
+    "90024": {
+      "population": {
+        "white": 27048,
+        "asian": 14007,
+        "black": 911,
+        "api": 0,
+        "hispanic": 5509,
+        "total": 47475
+      }
+    },
+    "90201": {
+      "population": {
+        "white": 3570,
+        "asian": 851,
+        "black": 1019,
+        "api": 158,
+        "hispanic": 97264,
+        "total": 102862
+      }
+    },
+    "90250": {
+      "population": {
+        "white": 10488,
+        "asian": 6744,
+        "black": 20834,
+        "api": 817,
+        "hispanic": 54079,
+        "total": 92962
+      }
+    },
+    "90280": {
+      "population": {
+        "white": 2943,
+        "asian": 504,
+        "black": 977,
+        "api": 115,
+        "hispanic": 90790,
+        "total": 95329
+      }
+    },
+    "90650": {
+      "population": {
+        "white": 57844,
+        "asian": 14192,
+        "black": 4589,
+        "api": 354,
+        "hispanic": 74182,
+        "total": 151161
+      }
+    },
+    "90805": {
+      "population": {
+        "white": 7784,
+        "asian": 10544,
+        "black": 19319,
+        "api": 1271,
+        "hispanic": 55387,
+        "total": 94305
+      }
+    },
+    "91331": {
+      "population": {
+        "white": 4264,
+        "asian": 5544,
+        "black": 3442,
+        "api": 43,
+        "hispanic": 87635,
+        "total": 100928
+      }
+    },
+    "91342": {
+      "population": {
+        "white": 12291,
+        "asian": 5335,
+        "black": 3705,
+        "api": 84,
+        "hispanic": 72845,
+        "total": 94260
+      }
+    },
+    "92335": {
+      "population": {
+        "white": 9274,
+        "asian": 1878,
+        "black": 5101,
+        "api": 829,
+        "hispanic": 81815,
+        "total": 98897
+      }
+    },
+    "92336": {
+      "population": {
+        "white": 17707,
+        "asian": 8993,
+        "black": 10820,
+        "api": 397,
+        "hispanic": 51888,
+        "total": 89805
+      }
+    },
+    "92503": {
+      "population": {
+        "white": 26654,
+        "asian": 6396,
+        "black": 3939,
+        "api": 98,
+        "hispanic": 55541,
+        "total": 92628
+      }
+    },
+    "92683": {
+      "population": {
+        "white": 22831,
+        "asian": 43808,
+        "black": 775,
+        "api": 191,
+        "hispanic": 22002,
+        "total": 89607
+      }
+    },
+    "92704": {
+      "population": {
+        "white": 7821,
+        "asian": 15626,
+        "black": 759,
+        "api": 158,
+        "hispanic": 65057,
+        "total": 89421
+      }
+    },
+    "92804": {
+      "population": {
+        "white": 21556,
+        "asian": 20008,
+        "black": 2232,
+        "api": 791,
+        "hispanic": 39846,
+        "total": 84433
+      }
+    },
+    "94565": {
+      "population": {
+        "white": 16643,
+        "asian": 13839,
+        "black": 14120,
+        "api": 1327,
+        "hispanic": 41676,
+        "total": 87605
+      }
+    },
+    "00926": {
+      "population": {
+        "white": 780,
+        "asian": 506,
+        "black": 7146,
+        "api": 0,
+        "hispanic": 100086,
+        "total": 108518
+      }
+    },
+    "08701": {
+      "population": {
+        "white": 76997,
+        "asian": 764,
+        "black": 3584,
+        "api": 0,
+        "hispanic": 16129,
+        "total": 97474
+      }
+    },
+    "00725": {
+      "population": {
+        "white": 654,
+        "asian": 379,
+        "black": 7788,
+        "api": 0,
+        "hispanic": 82680,
+        "total": 91501
+      }
+    },
+    "11554": {
+      "population": {
+        "white": 25564,
+        "asian": 4433,
+        "black": 1724,
+        "api": 0,
+        "hispanic": 5360,
+        "total": 37081
+      }
+    },
+    "15146": {
+      "population": {
+        "white": 21378,
+        "asian": 1545,
+        "black": 3785,
+        "api": 0,
+        "hispanic": 611,
+        "total": 27319
+      }
+    },
+    "15701": {
+      "population": {
+        "white": 31034,
+        "asian": 529,
+        "black": 1881,
+        "api": 8,
+        "hispanic": 649,
+        "total": 34101
+      }
+    },
+    "20874": {
+      "population": {
+        "white": 21600,
+        "asian": 9866,
+        "black": 15037,
+        "api": 8,
+        "hispanic": 12134,
+        "total": 58645
+      }
+    },
+    "21144": {
+      "population": {
+        "white": 16891,
+        "asian": 1858,
+        "black": 12277,
+        "api": 7,
+        "hispanic": 2726,
+        "total": 33759
+      }
+    },
+    "23111": {
+      "population": {
+        "white": 31508,
+        "asian": 497,
+        "black": 3178,
+        "api": 8,
+        "hispanic": 933,
+        "total": 36124
+      }
+    },
+    "27103": {
+      "population": {
+        "white": 20862,
+        "asian": 1458,
+        "black": 7763,
+        "api": 0,
+        "hispanic": 5007,
+        "total": 35090
+      }
+    },
+    "28601": {
+      "population": {
+        "white": 38681,
+        "asian": 1782,
+        "black": 2439,
+        "api": 0,
+        "hispanic": 5083,
+        "total": 47985
+      }
+    },
+    "29456": {
+      "population": {
+        "white": 18507,
+        "asian": 610,
+        "black": 7624,
+        "api": 0,
+        "hispanic": 2490,
+        "total": 29231
+      }
+    },
+    "29483": {
+      "population": {
+        "white": 51082,
+        "asian": 989,
+        "black": 14924,
+        "api": 169,
+        "hispanic": 4062,
+        "total": 71226
+      }
+    },
+    "30043": {
+      "population": {
+        "white": 37793,
+        "asian": 10905,
+        "black": 20713,
+        "api": 91,
+        "hispanic": 15930,
+        "total": 85432
+      }
+    },
+    "30705": {
+      "population": {
+        "white": 27686,
+        "asian": 62,
+        "black": 359,
+        "api": 0,
+        "hispanic": 5081,
+        "total": 33188
+      }
+    },
+    "30741": {
+      "population": {
+        "white": 26906,
+        "asian": 249,
+        "black": 1174,
+        "api": 0,
+        "hispanic": 771,
+        "total": 29100
+      }
+    },
+    "31021": {
+      "population": {
+        "white": 14328,
+        "asian": 486,
+        "black": 12597,
+        "api": 0,
+        "hispanic": 579,
+        "total": 27990
+      }
+    },
+    "32082": {
+      "population": {
+        "white": 26997,
+        "asian": 881,
+        "black": 678,
+        "api": 30,
+        "hispanic": 1335,
+        "total": 29921
+      }
+    },
+    "33056": {
+      "population": {
+        "white": 363,
+        "asian": 225,
+        "black": 29070,
+        "api": 63,
+        "hispanic": 6084,
+        "total": 35805
+      }
+    },
+    "37312": {
+      "population": {
+        "white": 28161,
+        "asian": 641,
+        "black": 1687,
+        "api": 0,
+        "hispanic": 2273,
+        "total": 32762
+      }
+    },
+    "37343": {
+      "population": {
+        "white": 37961,
+        "asian": 998,
+        "black": 2141,
+        "api": 49,
+        "hispanic": 768,
+        "total": 41917
+      }
+    },
+    "42101": {
+      "population": {
+        "white": 44516,
+        "asian": 1867,
+        "black": 8012,
+        "api": 13,
+        "hispanic": 4111,
+        "total": 58519
+      }
+    },
+    "43612": {
+      "population": {
+        "white": 21826,
+        "asian": 54,
+        "black": 4666,
+        "api": 0,
+        "hispanic": 2981,
+        "total": 29527
+      }
+    },
+    "44240": {
+      "population": {
+        "white": 33281,
+        "asian": 1516,
+        "black": 2659,
+        "api": 0,
+        "hispanic": 681,
+        "total": 38137
+      }
+    },
+    "46060": {
+      "population": {
+        "white": 32378,
+        "asian": 1017,
+        "black": 1772,
+        "api": 20,
+        "hispanic": 2269,
+        "total": 37456
+      }
+    },
+    "46077": {
+      "population": {
+        "white": 24150,
+        "asian": 1644,
+        "black": 497,
+        "api": 0,
+        "hispanic": 604,
+        "total": 26895
+      }
+    },
+    "46614": {
+      "population": {
+        "white": 24030,
+        "asian": 259,
+        "black": 3483,
+        "api": 17,
+        "hispanic": 1787,
+        "total": 29576
+      }
+    },
+    "47802": {
+      "population": {
+        "white": 28563,
+        "asian": 1133,
+        "black": 2874,
+        "api": 31,
+        "hispanic": 1131,
+        "total": 33732
+      }
+    },
+    "48423": {
+      "population": {
+        "white": 28326,
+        "asian": 466,
+        "black": 1193,
+        "api": 17,
+        "hispanic": 1137,
+        "total": 31139
+      }
+    },
+    "49221": {
+      "population": {
+        "white": 32100,
+        "asian": 105,
+        "black": 2641,
+        "api": 26,
+        "hispanic": 5432,
+        "total": 40304
+      }
+    },
+    "53204": {
+      "population": {
+        "white": 6422,
+        "asian": 691,
+        "black": 4398,
+        "api": 0,
+        "hispanic": 27615,
+        "total": 39126
+      }
+    },
+    "60060": {
+      "population": {
+        "white": 22010,
+        "asian": 3626,
+        "black": 804,
+        "api": 0,
+        "hispanic": 10634,
+        "total": 37074
+      }
+    },
+    "84010": {
+      "population": {
+        "white": 40516,
+        "asian": 652,
+        "black": 175,
+        "api": 294,
+        "hispanic": 3393,
+        "total": 45030
+      }
+    },
+    "84404": {
+      "population": {
+        "white": 43226,
+        "asian": 486,
+        "black": 620,
+        "api": 62,
+        "hispanic": 14463,
+        "total": 58857
+      }
+    },
+    "91010": {
+      "population": {
+        "white": 5383,
+        "asian": 4264,
+        "black": 2291,
+        "api": 0,
+        "hispanic": 13521,
+        "total": 25459
+      }
+    },
+    "92831": {
+      "population": {
+        "white": 15130,
+        "asian": 6981,
+        "black": 835,
+        "api": 121,
+        "hispanic": 12523,
+        "total": 35590
+      }
+    },
+    "07109": {
+      "population": {
+        "white": 11764,
+        "asian": 4163,
+        "black": 3659,
+        "api": 0,
+        "hispanic": 16206,
+        "total": 35792
+      }
+    },
+    "08520": {
+      "population": {
+        "white": 13604,
+        "asian": 4800,
+        "black": 2304,
+        "api": 0,
+        "hispanic": 5845,
+        "total": 26553
+      }
+    },
+    "07652": {
+      "population": {
+        "white": 16022,
+        "asian": 7129,
+        "black": 762,
+        "api": 0,
+        "hispanic": 2490,
+        "total": 26403
+      }
+    },
+    "08043": {
+      "population": {
+        "white": 19276,
+        "asian": 5727,
+        "black": 2763,
+        "api": 0,
+        "hispanic": 993,
+        "total": 28759
+      }
+    },
+    "06066": {
+      "population": {
+        "white": 23392,
+        "asian": 1372,
+        "black": 1695,
+        "api": 0,
+        "hispanic": 2249,
+        "total": 28708
+      }
+    },
+    "01752": {
+      "population": {
+        "white": 27644,
+        "asian": 1891,
+        "black": 1222,
+        "api": 0,
+        "hispanic": 6902,
+        "total": 37659
+      }
+    },
+    "07054": {
+      "population": {
+        "white": 13527,
+        "asian": 11043,
+        "black": 1458,
+        "api": 0,
+        "hispanic": 2973,
+        "total": 29001
+      }
+    }
+}
